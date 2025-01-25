@@ -1,0 +1,29 @@
+#include<iostream.h>
+#include <conio.>
+Void main()
+{
+Clrscr();
+Double x;
+Int n;
+Cin>>n>>n;
+Cout<<n<<”raised to” <<n<<”=”<<pow(m,n)<<endl;
+}
+Double pow (double n,int n)
+{
+If (n==0)
+Return 0;
+If(n==o)
+Return 1;
+Double y=1;
+For(int i=o; i<n; i++)
+Y*=x;
+For (int i=o; i>n; i-- )
+y/=xi
+return y;
+}
+
+   
+Output
+2
+3
+2raised to 3=8
