@@ -1,0 +1,61 @@
+#include <iostream.h>
+#include <conio.h>
+  Class student 
+{
+          Private :
+                             Int r_no;
+Public :
+Void get_number (inta)
+{
+       r_no=a
+}
+Void put_number()
+{
+Cout <<”roll number = “<<r_no<<endl;
+      }
+};
+Class test :public student
+{
+Protected
+Float sub1;
+Float sub2;
+Public:
+Void  get marks (floatx, floaty)
+{
+        Sub1=x;
+        Sub2= y;
+}
+Void put – marks ()
+  {
+Cout <<”marks in subject 1 =”<<sub1<<endl;
+Cout<<”marks in subject =”<<sub2<<endl;
+                }
+};
+Class result :public test 
+      {
+Private  
+       Float to t;
+       Public :
+         Void result ::display()
+{
+       Put_number ();
+         Put_marks ();
+           To t = sub 1+sub2
+     Cout <<”total marks = “<<to t<<endl;   
+         }
+};
+Void main ()
+{
+Clrscr();
+Results ;
+s.get_number (10);
+s.get_marks cls, 2(s);
+s.display ();
+getch();
+}
+   
+Output 
+Roll no = 10
+Marks in subject 1 = 15
+Marks in subject 2 = 25
+Total marks = 40
