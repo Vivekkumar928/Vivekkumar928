@@ -1,0 +1,44 @@
+#include <iostream.h>
+#include <conio.h>
+Class space 
+{
+   Private :
+               Int a,b,c;
+           Public :
+                        Void  get – data (intx, inty , intz);
+                         {
+                         a= x;
+                          b= y;
+                          c=2;
+                         }
+                             Void operator –()
+                            {
+                             a = a 
+                            b=b 
+                           c=c
+                        }
+                             Void  display ()
+                         {
+                            Cout <<”data “<<”u”<<””<<b<<””<<c<<endl;
+
+                      }
+                };
+           Void main ()
+       {
+            Clrscr();
+                Space Q;
+                  Q. get data (10 -20,30):
+Q. display ();
+-Q;
+Q.display (); 
+Getch();
+}
+
+OUTPUT :-
+Data : 10-20=10
+Data :- -10-20=-30
+
+
+OUTPUT :-
+Data : 10-20=-10
+Data :- -10-20=-30
