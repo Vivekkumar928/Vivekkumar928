@@ -1,0 +1,44 @@
+#include <iostream.h>
+#include <conio.h>
+#include <string.h>
+           Class person 
+{
+       Private :
+                    Char name [20];
+          Public:
+                     Person()
+                 {
+                         Strcpy (name , “Tom”);
+                       }
+                           Virtual void print()
+                         {
+                             Cout<<name<<”is a good person”<<endl;
+                      }
+               };
+                   Class student : public person 
+                    {
+                            Private:
+                                   Char name 1[20];
+                                    Public :
+                                            Student ()
+                                 {
+                                         Strepy (name 1 . “BOB”);
+                                      }
+                                           Void print ()
+                   {
+                        Cout <<name1 <<”is a good student “<<endl;
+                         }
+                             };
+                                  Void main()
+                                     {
+                                        Clrscr ();
+                                            Person * p,x;
+                                               Student y;
+                                               P= &x;
+                                             P -> print ();
+                                               Getch ();
+                                        }
+
+OUTPUT:-
+Tom is a good person
+BOB is a good student
