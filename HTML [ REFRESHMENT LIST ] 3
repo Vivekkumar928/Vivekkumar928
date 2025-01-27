@@ -1,0 +1,31 @@
+<html>
+<head>
+<title> refreshment list </title >
+</head>
+<body by color = "pink">
+<center > <u> <h1> refreshment list <h1></u>
+</center>
+<ul>
+<li> milk </li>
+<li>coffee </li>
+<ul type = " disc">
+<li> cold coffee </li>
+<li> hot coffee </li>
+</ui>
+</li>
+<li> tea</li>
+<ul type = "circle">
+<li> black tea </li>
+<li> green tea <li >
+<ul> type = "square">
+<li> china </li>
+<li> Africa </li>
+</ul>
+</li>
+<li>water </li>
+<ul type =" disc ">
+<li> regular </li>
+<li> mineral </li>
+</ul>
+</body>
+</html>
