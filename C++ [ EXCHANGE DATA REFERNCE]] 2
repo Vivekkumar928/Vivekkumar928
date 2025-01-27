@@ -1,0 +1,31 @@
+.#include <iostream.h>
+#include <conio.h>
+   Void swap (int&a, int&b);
+       Void main ()
+{
+     Clrscr();
+Inta,b,m
+Cout <<”enter number\n”;
+Cin>>a>>b;
+Cout<<”before swapping\n”<<”a=”<<a<<”\n”<<”b=”<<b<<”\n”;
+Swap(a,b);
+Cout <”after swapping “<<endl<<”a=”<<endl<<”b”=<<b<<endl;
+Getch();
+}
+Void swap (int&a, int&b)
+{int m;
+M=a;
+A=b;
+b=m;
+}
+
+Output 
+Enter number
+10
+20
+Before swapping
+a=10
+b=20
+after swapping
+a=20
+b=10
