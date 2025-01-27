@@ -1,0 +1,36 @@
+VISUAL BASIC 3
+Dim a,b,c,d,e,f,g,h, as integers 
+Private sub cmd clear _ click ()
+Text1 . Text = “      “
+Text2 . text = “          “
+Text3. Text = “          “
+Text4 . text = “             “
+Text5. Text = “            “
+Text6 . text = “           ‘’
+Text7 . text = “          “
+Text8 . text = “          “
+Text 9 . text = “           “
+End sub
+Private sub cmd exit_ click ()
+End 
+End sub 
+Private sub cmd result _ click ()
+A= val (text1 . text)
+B= val (text2. Text)
+C=val (text3. Text)
+D= val (text4. Text)
+E= val (text5. Text)
+F= val (text6. Text)
+G = a+b+c+d+e+f
+Text 7. Text g
+h = g*100/400
+text 8. Text = h 
+if h>=60 then 
+text 9. Text = “ 2nd class “
+else 
+if h > = 40 then 
+text 9. Text = “3rd class”
+end if 
+end if 
+end if 
+end sub
