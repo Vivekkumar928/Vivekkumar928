@@ -1,0 +1,48 @@
+#include <iostream.h>
+#include <conio.h>
+Class circle 
+{
+    Private:-
+                    Float x,y,z 
+                     Float area1, circum;
+Public:
+            Void assign(); void area ();
+             Void circumf (); void print ();
+}
+   Void circle :: assign ();
+     {
+Cout <<”type the x&y co-ordinate of the center \n;
+Cin>>x>>y;
+Cout<<” type the radius:-“;
+Cin>>r j
+}
+Void circle :: area ()
+{
+Area1 = 3.14*r*r;
+}
+Void circle :: circumf()
+{
+Circum=2*3.14*r
+}
+Void circle ::print c()
+{
+Cout <<”x,y co-ordinates = “<<x<<”\+”<<y<<end1;
+Cout <<”the radius is = “<<r<<endl;
+Cout<<”the area is = “<<area1 <<end1;
+Cout <<”the circumference is = “<<circum<<endl;
+}
+Void main ()
+{
+Circle c1;
+C1. Assign ();
+C1. Area ();
+C1. Circumf ();
+C1. Print c ();
+}
+OUTPUT
+Type the x&y co-ordinate of the center 21
+Type the radius :-2
+X,y co-ordinates = 2 1
+The radius is =2 
+The area is 12. 56
+The circumference is 12.56
