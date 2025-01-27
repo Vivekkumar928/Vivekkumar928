@@ -1,0 +1,16 @@
+VISUAL BASIC 2
+Dim r,
+r = input box (“enter radius “)
+area = r*r*3.14
+msg box (“the area of circle is &area)
+end sub 
+private sub cmd exist _ click ()
+end
+end sub
+private sub cmd rectangle _ click()
+dim L,M
+l = input box (“enter the lengh”)
+w= input box (“enter the width”)
+area = l*w
+msg = (“ the area of rectangle is *&*area “)
+end sub
