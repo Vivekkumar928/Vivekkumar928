@@ -1,0 +1,46 @@
+#include <iostream.h>
+#include <conio.h>
+Class ratio
+{
+Private ;
+int num,den;
+public;
+ratio()
+{
+  Num=10;
+Den=20;
+}
+ ratio(int n)
+{
+Num=n;
+Den=d;
+}
+ Void display()
+{
+  Cout <<”numerator =”<<num<<endl;
+Cout<<”denominator=”<<den<<endl;
+  }
+}
+void main()
+{
+ Clrscr();
+Ratior1;
+R1 display ();
+Ratio r2 (5)
+R2 . display ();
+Ratio (20,40);
+R3 display ();
+Getch();
+}
+
+OUTPUT
+Numerator = 10
+Denominator = 20
+  
+Numerator =50
+Denominator = 60
+ 
+Numerator = 20 
+Denominator =40
+
+
