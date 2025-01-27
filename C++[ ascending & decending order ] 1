@@ -1,0 +1,95 @@
+#include <iostream.h>
+#include <conio.h>
+#include <process.h>
+Void main()
+{
+         Clrscr();
+      Inta[5],i,j,t;
+Cout<<”enter 10 number “<<endl1;
+For (i=0; 3i<5;i++)
+{
+  Cin >>a[i];
+}
+  For (j=0; j<5;i++)
+{
+ If (a[i]<a[j])
+{ 
+ t=a[i]
+a[i] = a[j];
+a[j] = t;
+}
+   }
+}
+Cout <<”Ascending order”<<endl;
+For (i=0; i<5; i++)
+{
+  Cout <<a[i] <<endl;
+}
+ For (i=0 ; i<5; i++)
+{
+  If (a[t] >a{j])
+{
+t = a[i];
+a[i]=a[j]
+a[j]=t;
+    }
+  }
+}
+Cout <<”Ascending order “<<endl
+For (i=0, i<5, i++)
+{
+Cout <<a[i]<<endl;
+If (a[t] >a [j])
+{
+ t= a[i];
+a[i]= a[j]
+a[j]= t;
+    }
+  }
+}
+Cout<”Desending order “<<endl
+For (i=0 , i<5, i++)
+{
+         Cout <<a[i]<<”,”,
+}
+   Getch();
+}
+ Output 
+Enter 5 integer
+2
+3
+5
+6
+4
+Ascending order
+2
+3
+4
+5
+6
+Descending order 
+6
+5
+4
+3
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>
