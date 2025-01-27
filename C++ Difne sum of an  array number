@@ -1,0 +1,22 @@
+#include <iostream.h>
+#include <conio.h>
+    Void main ()
+{
+Int u[10]  i, sum=0;
+Cout<<” enter any five number” <<endl;
+For ci=0, i<=4; i++)
+{
+Cin>>a [i]
+Sum=sum+a[i];
+}
+Cout <<” The total sum=”<<sum;
+}
+
+OUTPUT
+Enter any 5 number 
+10
+20
+30
+40
+50
+The total sum = 150
