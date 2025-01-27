@@ -1,0 +1,36 @@
+#include <iostream.h>
+#include <conio.h>
+#include <string.h>
+Void str-rev(chor[])
+Void main()
+{
+   Clrscr()
+Char a[10]
+Cout<<”enter string\n”;
+Cin get (a,10);
+Str-rev(a);
+Getch();
+}
+Void str-rev(char[])
+{
+Char rev[10];
+Inti,j;
+I=strlen(a);
+j=i-1;
+i=0;
+while (j>=0)
+{
+Rev[i]=a[j];
+i++;
+j—j
+}
+Rev[i]= ’10’;
+Cout <<”the reverse string\n”<<rev;
+}
+
+Output:
+Enter string 
+Abcdef
+The reverse string 
+Fedcba
+
