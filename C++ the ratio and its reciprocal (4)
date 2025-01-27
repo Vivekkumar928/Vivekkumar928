@@ -1,0 +1,61 @@
+PRACTICAL NO – 4
+  
+#include <iostream.h>
+#include <conio.h>
+       Class ratio 
+          {
+                 Private 
+                       Int num den;
+                       Float , f , reft ;
+                          Double m;
+                Public  
+                           Void assign ();
+                            Void convert ();
+                            Void invert ();
+                             Void print ();
+                        }
+                              Void ratio :: assign ()
+                            {
+                                Cout <<” enter the number ratio <<”endl;
+
+                                     Cin >>num:
+                                 Cout <<”enter the denominator of the ratio “<<endl;
+                                       Cin>>den;
+                                     F=num / float (den );
+                                    }
+                                       Void ratio::convert ()
+                                       {
+                                          Float t = num;
+                                              Num=den
+                                             Den = t
+                      Ref = num / float (den );
+                       }
+                            Void ratio ::print ()
+                              {
+                              Cout <<” the no of the ratio =”<,num<<endl;
+                              Cout<<”the denominator of the ratio = “<<den <<endl;
+                               Cout <<”the origin ratio is = “<<f<<endl;
+                               Cout <<” the ratio indouble is = “<<m<<endl;
+                                Cout <<”the reciprocal of the ratio is =”<<ref<<endl;
+                                }
+                                   Void main()
+                                     {
+                                        Clrscr ();
+                                            Ratio r;
+                                          r.assign ();
+                                          r.convert ();
+                                           r.invert ();
+                                           r.print();
+                                               getch ();
+                                              }
+        
+ OUTPUT:
+Enter the number ratio 
+10
+Enter the denominator of the ratio 
+20
+The number of the ratio = 200
+The denominator of the ratio = 10 
+The origin ratio is = 0.5
+The reciprocal the ratio is = 2
+
