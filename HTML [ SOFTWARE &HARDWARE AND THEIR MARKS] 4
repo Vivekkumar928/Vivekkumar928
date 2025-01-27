@@ -1,0 +1,54 @@
+                                                        HTML PRACTICAL NO - 4
+<html>
+<head>
+<title> college_course</title>
+</head>
+<body bgcolor = "blue">
+<center> <u> <b> <font size = "25" color "red"
+face = "ALGEBRIAN"> MAHARASHI DAYANAND COLLEGE </u> </b>
+<br>
+<u><b><font size ="15"> computer science </font>
+</b></u>
+<font size = "15"> paper1;software </font>
+<br>
+<br>
+<font size ="16">paper2; hardware</font>
+<br>
+<br>
+<font size ="15"> total mark :200</font>
+<br>
+<br>
+<a href = "                   "><b></a>
+<font size = "5"> topics </font> </a> </b>
+</body>
+</html>
+
+page2
+<html>
+<head>
+<title> cs- info </title>
+</head>
+<body>
+<center> <u> <h1> info about subject </h1> </u> </center>
+<br>
+<center> <table border = "2"
+<tr>
+<td colspan =2"> xII computer science </td>
+</tr>
+<tr>
+<td>operation system </td>
+<td> ITN </td>
+</tr>
+<tr>
+<td> data structure </td>
+<td> ISP </td>
+</tr>
+<tr>
+<td> HTML </td>
+<td> x-86 family </td>
+</tr>
+<td> c++</td>
+<td> microcontroller</td>
+</table>
+</body>
+</html>
