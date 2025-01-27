@@ -1,0 +1,27 @@
+VISUAL BASIC – 4
+Private sub cmd add – click ()
+1st name . add item txt name . text 
+Txt name . set focus 
+lbl total . capation = 1st name . list count 
+cmd add . enabled = false 
+end sub 
+private sub cmd clear _  click ()
+1st name . clear 
+lbl total . capation = 1st name . list count 
+end sub 
+private sub cmd _ exist _ click ()
+end 
+end sub 
+private sub cmd remove – click()
+dim remove = 1st name . list index 
+ if remove >.0 then 
+1st name remove item remove 
+lbl total caption = 1st name list counter
+end if 
+end  sub 
+private sub txtname – change ()
+if (len (txtname . text )>0) then 
+(md add . enabled = true 
+End if 
+End sub
+
