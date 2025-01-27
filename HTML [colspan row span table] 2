@@ -1,0 +1,69 @@
+                                                  HTML PRATICAL 2
+<html>
+<head>
+<title> student_marksheet </title>
+</head>
+<body>
+<center> <u> <b> <font size = "20" face "ALEBRIAN" color ="red"> student marksheet</font></b>
+</u> </center>
+<br>
+<center> <u> <b> <font size = "15" face "ALEBRIN" color = "yellow"> . department :cs</b>
+</font> </u></center>
+<br>
+<center ><table border="1"> </center> <tr>
+<th colspan = "5"><4> marksheet</u>
+</th>
+</tr>
+<th> subject </th>
+<th> maximum <marks </th>
+<th> theory </th>
+<th> practical </th>
+<th> total marks obtained </th>
+</tr>
+<tr>
+<td> physcis </td>
+<td> 100 </td>
+<td> 50 </td>
+<td> 40 </td>
+<td > 90</td>
+</tr>
+<tr>
+<td> chemistry </td>
+<td> 100 </td>
+<td>50</td>
+<td> 40 </td>
+<td> 90</td>
+</tr>
+<tr>
+<td> maths </td>
+<td>100</td>
+<td> 50 </td>
+<td> 40 </td>
+<td>90</td>
+</tr>
+<tr>
+<td> comp sci </td>
+<td> 100 </td>
+<td> 50 </td>
+<td>40 </td>
+<td> 90 </td>
+</tr>
+<tr>
+<td> English </td>
+<td> 100 </td>
+<td> 50 </td>
+<td> 40</td>
+<td> 90</td>
+</tr>
+<tr>
+<td> total </td>
+<td> 500 </td>
+<td> colspan = "3"> 450 </td>
+</tr>
+<tr>
+<td> percentage </td>
+<td> colspan = "4"> 96%</td>
+</tr>
+</table>
+</body>
+</html
