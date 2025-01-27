@@ -1,0 +1,28 @@
+include<iostream.h>
+#include <conio.h>
+Class ratio
+{
+Public:
+Ratio()
+{
+     Cout <<”object is born “<<endl;
+}
+    Ratio()
+{
+    Getch();
+   Cout <<” the is destroyed”;
+   }
+}
+Void main()
+{ clrscr();
+Ratio r;
+Cout <<”now is alive “<<endl;
+Ratio r2 ;
+Cout <<”now x between two blocks “<<endl;
+}
+Output 
+Object is  born 
+Now x is alive 
+Object is born 
+Now x is between two blocks 
+The object is destroyed
