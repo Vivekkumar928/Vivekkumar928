@@ -1,0 +1,26 @@
+                                                            HTML PRACTICAL 1
+<html>
+<head>
+<title> college profile </title>
+</head>
+<body bg colour = "yellow">
+<center> <u><b><font size = "30" face = "ALEGBAIAN">
+color = "blue" MD JUNIOR COLLEGE </font></b>
+</u></center>
+<br>
+<br>
+<center><u><fontsize = "15" color = "red"
+<b>department cs/elec</b> </font>
+</u> </center>
+<br>
+<u> <font size = "15"color = "grey" <b>
+comp.sci </br> </font></u>
+<br>
+*paper1
+<br>
+*paper 2
+<br>
+<center> <img height = "400" width "200" src = "c:/
+</center>
+</body>
+</html>
